@@ -1,0 +1,14 @@
+To get the code running, do the following:
+1. Make sure you have a fairly recent version of NodeJS installed
+2. Make sure you have Angular CLI installed:
+npm install -g @angular/cli
+3. Open a command prompt or Powershell window in the securing-angular-client folder
+4. Run:
+npm install
+5. Run:
+ng serve
+Client app will build and be available on localhost:4200
+6. Open and build the SecuringAngularApps.API solution
+7. Run the InitData.sql script against (localdb)\MSSQLLocalDB master to create the DBs and populate with seed data.
+8. Run the STS and API projects
+9. go to localhost:4200

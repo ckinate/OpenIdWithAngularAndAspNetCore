@@ -1,0 +1,12 @@
+C:\Code\Pluralsight\SecuringAngularApps\demos\m4\after\SecuringAngularApps.API\SecuringAngularApps.STS\bin\Release\netcoreapp2.0\SecuringAngularApps.STS.deps.json
+C:\Code\Pluralsight\SecuringAngularApps\demos\m4\after\SecuringAngularApps.API\SecuringAngularApps.STS\bin\Release\netcoreapp2.0\SecuringAngularApps.STS.runtimeconfig.json
+C:\Code\Pluralsight\SecuringAngularApps\demos\m4\after\SecuringAngularApps.API\SecuringAngularApps.STS\bin\Release\netcoreapp2.0\SecuringAngularApps.STS.runtimeconfig.dev.json
+C:\Code\Pluralsight\SecuringAngularApps\demos\m4\after\SecuringAngularApps.API\SecuringAngularApps.STS\bin\Release\netcoreapp2.0\SecuringAngularApps.STS.dll
+C:\Code\Pluralsight\SecuringAngularApps\demos\m4\after\SecuringAngularApps.API\SecuringAngularApps.STS\bin\Release\netcoreapp2.0\SecuringAngularApps.STS.pdb
+C:\Code\Pluralsight\SecuringAngularApps\demos\m4\after\SecuringAngularApps.API\SecuringAngularApps.STS\obj\Release\netcoreapp2.0\SecuringAngularApps.STS.csprojAssemblyReference.cache
+C:\Code\Pluralsight\SecuringAngularApps\demos\m4\after\SecuringAngularApps.API\SecuringAngularApps.STS\obj\Release\netcoreapp2.0\SecuringAngularApps.STS.csproj.CoreCompileInputs.cache
+C:\Code\Pluralsight\SecuringAngularApps\demos\m4\after\SecuringAngularApps.API\SecuringAngularApps.STS\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Code\Pluralsight\SecuringAngularApps\demos\m4\after\SecuringAngularApps.API\SecuringAngularApps.STS\obj\Release\netcoreapp2.0\SecuringAngularApps.STS.AssemblyInfoInputs.cache
+C:\Code\Pluralsight\SecuringAngularApps\demos\m4\after\SecuringAngularApps.API\SecuringAngularApps.STS\obj\Release\netcoreapp2.0\SecuringAngularApps.STS.AssemblyInfo.cs
+C:\Code\Pluralsight\SecuringAngularApps\demos\m4\after\SecuringAngularApps.API\SecuringAngularApps.STS\obj\Release\netcoreapp2.0\SecuringAngularApps.STS.dll
+C:\Code\Pluralsight\SecuringAngularApps\demos\m4\after\SecuringAngularApps.API\SecuringAngularApps.STS\obj\Release\netcoreapp2.0\SecuringAngularApps.STS.pdb
